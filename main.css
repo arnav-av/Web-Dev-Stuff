@@ -1,0 +1,181 @@
+header{
+	background: url(https://s.yimg.com/os/creatr-uploaded-images/2021-03/77249040-8e68-11eb-97ee-0a218afcca06);
+	background-size: cover;
+
+}
+
+
+
+header h3{
+
+	color: #000;
+	font-style: Times New Roman;
+}
+
+h3{
+	color: blue;
+}
+
+body{
+	background:#999;
+	font-family: sans-serif;
+
+}
+
+.page2{
+	background: url(https://www.rollingstone.com/wp-content/uploads/2019/08/slipknot.jpg);
+	background-size: cover;
+
+}
+
+.page3{
+	background-image: url(blackhole.png);
+	color: black;
+	background-size: unset;
+	background-repeat: repeat-y;
+	}
+
+
+
+	div{
+		text-align: center;
+	}
+
+ 
+ nav{
+ 	color: 0000;
+ 	padding-left: 25px;
+ 	margin-top: 25px;
+ 	font-family: "Times New Roman";
+ 	font-size: 20px;
+ }
+
+
+span{
+	font-size: 50px;
+	color: darkred;
+}
+
+h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h2{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: gold;
+}
+
+
+h4{
+	color: #000;
+	font-family: cursive;
+
+	}
+
+	a{
+		color: blue;
+	}
+	
+}
+.primary{
+	color: darkred;
+	font-family: monospace;
+	background:grey ;
+}
+
+.secondary{
+	background: grey;
+	border-radius: 5px;
+
+}
+
+.boxes{
+	margin: 5px;
+	float: left;
+	}
+
+.box1{
+	width: 100px;
+	height: 100px;
+	background: darkred;
+	clear: right;
+	border-radius: 15px;
+}
+
+.box2{
+	width: 100px;
+	height: 100px;
+	background: green;
+	border-radius: 15px;
+	
+}
+
+.box3{
+	width: 100px;
+	height: 100px;
+	background: slateblue;
+	border-radius: 15px;
+	
+	
+}
+
+.box4{
+	width: 100px;
+	height: 100px;
+	background: gold;
+	border-radius: 15px;
+	}
+
+
+.box5{
+	width: 100px;
+	height: 100px;
+	background: aquamarine;
+	border-radius: 15px;
+	
+}
+
+.box6{
+	width: 100px;
+	height: 100px;
+	background: violet;
+	margin: 0;
+	padding:0;
+	border-radius: 15px;
+}
+
+.box7{
+	width: 100px;
+	height: 100px;
+	background: white;
+	border-radius: 15px;
+	
+}
+
+
+
+ul{
+	 margin-left: 0px;
+	 padding-left:20px;
+	 padding-right: 20px;
+
+}
+
+ul li{
+	color: blue;
+	display: inline-block;
+	padding-right: 20px;
+}
+
+
+
+
+
+.page4{
+	background: gold;
+	margin: 0px;
+	padding: 0px 5px 0px 5px;
+	display: inline-block;
+	}
